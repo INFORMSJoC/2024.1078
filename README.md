@@ -14,10 +14,12 @@ Please cite both the paper and this repository:
 ```bibtex
 @misc{Li2026RLGD,
   author = {Li, Dongyang and Sun, Jianshan and Li, Xin and Gao, Chongming and Feng, Fuli and Yuan, Kun},
-  year = {2026},
+  publisher = {INFORMS Journal on Computing},
   title = {Reinforcement Learning-based Graph Downsampling for Social Recommendation},
+  year = {2026},
   doi = {10.1287/ijoc.2024.1078.cd},
-  note = {\url{https://github.com/INFORMSJoC/2024.1078}},
+  url = {https://github.com/INFORMSJoC/2024.1078},
+  note = {Available for download at https://github.com/INFORMSJoC/2024.1078}
 }
 ```
 
